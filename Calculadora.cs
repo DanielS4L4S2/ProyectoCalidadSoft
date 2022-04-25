@@ -9,6 +9,7 @@ namespace Semana7PU
         public static int suma(int a, int b)
         {
             return a + b;
+            /*Comentario Prueba Commit*/
         }
 
         public static int resta(int a, int b)
